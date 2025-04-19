@@ -1,6 +1,6 @@
 # expense_tracker
 
-A new Flutter project.
+Una aplicacion o pagina con la cual mantienes tu registro de gastos en el dia a dia
 
 ## Getting Started
 
